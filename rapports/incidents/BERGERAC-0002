@@ -102,11 +102,8 @@
 [HEADING=3][INDENT][B]Interrogatoire[/B][/INDENT][/HEADING]
 [INDENT=2]À défaut de personnel I.T ou de responsable de la branche scientifique ayant fait l'effort de se mouvoir vers l'infirmerie afin d’éclaircir la situation, l'infirmier de terrain 67199 Mega a mené l'interrogatoire instinctivement en fournissant du papier et un stylo à la chercheuse encore incapable de parler.[/INDENT]
 
-[INDENT=2][I]Extrait de l'interrogatoire[/I][/INDENT]
-
-[TABLE]
-[TR]
-[TD]Médecin : Pouvez-vous me dire ce qu'il s'est passé ?
+[I]Extrait de l'interrogatoire[/I]
+[QUOTE]Médecin : Pouvez-vous me dire ce qu'il s'est passé ?
 
 Chercheuse : Où suis-je ?
 
@@ -218,7 +215,7 @@ Chercheuse : Je... comprend.
 
 Directeur : Tout le monde dehors. APR bloquez l'accès.
 
-[Tout le monde sort de l'infirmerie sauf le Directeur.
+[Tout le monde sort de l'infirmerie sauf le Directeur]
 
 Directeur : Levez-vous madame, nous allons aller dans l'arrière-salle quelques secondes.
 
@@ -230,9 +227,8 @@ Directeur : ██████████████████ ████�
 
 [██████████████████████████████████████████]
 
-[La chercheuse s'endormie, fût guérie et n'eu plus aucun souvenir de son passé.[/TD]
-[/TR]
-[/TABLE]
+[La chercheuse s'endormie, fût guérie et n'eu plus aucun souvenir de son passé.
+[/QUOTE]
 
 [INDENT=2]Suite à cela, sur demande du directeur Black, toutes informations concernant la Chercheuse Sylvanel Bergerac doivent être supprimés. Ceci inclus les mentions de son nom ainsi que sa fiche de personnel.[/INDENT]
 
